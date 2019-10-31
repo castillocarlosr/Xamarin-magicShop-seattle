@@ -53,6 +53,7 @@
                                 <Span Text=" " />
                                 <Span Text="Xamarin Platform" FontAttributes="Bold" />
                                 <Span Text="." />
+                                <Span Text="So this is where I Carlos Castillo will figure out what to make" />
                             </FormattedString.Spans>
                         </FormattedString>
                     </Label.FormattedText>
